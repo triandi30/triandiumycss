@@ -7,7 +7,7 @@ max-height: 200% !important; /*mengganti warna menu (#31A9E1) dan gambar header 
 /*List Arikel Background*/
 .obj_issue_toc .articles > li {
   margin-bottom: 20px;
-  border-bottom: solid #885EA3;
+  border-bottom: solid #016838;
   padding: 1rem;
   background-color: #ececec;
 }
@@ -383,7 +383,7 @@ Responsive layout - makes the two columns stack on top of each other instead of 
   border-top: 1px solid #ddd;
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
-  border-bottom: 1.43rem solid #885EA3;
+  border-bottom: 1.43rem solid #016838;
 }
 
 body { 
@@ -1133,20 +1133,20 @@ font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 }
 
 .pkp_navigation_primary_row {
-  background: #885EA3;
+  background: #016838;
   padding-left: 2.143rem;
   padding-right: 2.143rem;
 }
 /*BACKGROUND PDF*/
 .cmp_manuscript_button, .block_make_submission a, .obj_galley_link {
-  background: #885EA3
+  background: #016838
   color: white;
 }
 .obj_galley_link {
   display: inline-block;
   padding: 0 1em;
-  background: #885EA3;
-  border: 1px solid #885EA3;
+  background: #016838;
+  border: 1px solid #016838;
   border-radius: 3px;
   font-size: 13px;
   line-height: 28px;
@@ -1155,7 +1155,7 @@ font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","
 }
 .obj_galley_link:hover {
   background: #fff;
-  color: #885EA3;
+  color: #016838;
   text-decoration: double;
 }
 
@@ -1252,13 +1252,13 @@ a:hover{
     font-weight: 400;
     text-align: center;
     text-transform: uppercase;
-    border-bottom: 2px solid #885EA3;
+    border-bottom: 2px solid #016838;
     text-align: center;
-    background-color: #885EA3;
+    background-color: #016838;
 }
 .pkp_nav_list ul a:hover{
   background: #fce386;
-  color: #885EA3;
+  color: #016838;
 }
 
 img {
@@ -1290,7 +1290,7 @@ button:hover {
 
 #navigationPrimary a {
   color: #fff;
-  background: #885EA3;
+  background: #016838;
 }
 */
 
